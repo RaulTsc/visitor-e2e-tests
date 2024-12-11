@@ -72,3 +72,4 @@ One solution is to use [cy.viewport()](https://docs.cypress.io/api/commands/view
 1. https://www.youtube.com/watch?v=5XQOK0v_YRE&ab_channel=OKG%21
 2. https://docs.cypress.io/guides/references/best-practices.html
 3. https://docs.cypress.io/api/cypress-api/custom-commands.html#Best-Practices
+# visitor-e2e-tests
